@@ -1,0 +1,28 @@
+{
+  "name": "node-js-info-bubble",
+  "version": "0.0.1",
+  "description": "A clone of Google Maps JavaScript API v3 library InfoBubble to create customizable CSS3-based InfoWindows converted to [commonJS](http://www.commonjs.org/) format.",
+  "main": "src/infobubble.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anton-Nikishkin/node-js-info-bubble.git"
+  },
+  "keywords": [
+    "infobubble",
+    "googlemaps"
+  ],
+  "author": "Anton Nikishkin <nikishkin.anton@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Anton-Nikishkin/node-js-info-bubble/issues"
+  },
+  "homepage": "https://github.com/Anton-Nikishkin/node-js-info-bubble#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "leche": "^2.1.2",
+    "mocha": "^3.2.0"
+  }
+}
